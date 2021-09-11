@@ -1,0 +1,1 @@
+# covid19-japan-7days-average
